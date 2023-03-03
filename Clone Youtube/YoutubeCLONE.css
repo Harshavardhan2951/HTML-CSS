@@ -1,0 +1,75 @@
+body {
+   color: aliceblue;
+   background-color: rgb(44, 42, 42);
+}
+
+.Searchbox {
+    padding-left: 10px;
+    border-radius: 25px;
+    width: 150px;
+    height: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    cursor: pointer;
+    background-color: rgb(255, 248, 248);
+    border-color: blue;
+    display: block;
+    margin-bottom: 10px;
+}
+ /* head1 Starts from here */
+
+.Video1 {
+    width: 350px;
+    cursor: pointer;
+    display: inline-block;
+    margin-left: 50px;
+}
+
+ .profile {
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 0px;
+}
+
+.Profilepix {
+    width: 50px;
+    border-radius: 30px;
+}
+.Picture1 {
+    margin-bottom: 10px;
+    width: 30px;
+}
+
+
+.profile_text {
+    width: 200px;
+    vertical-align: top;
+    margin-top: 0px;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.H1, .H2, H3{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.H1, .H2 {
+    margin-bottom: 0px;
+}
+
+.H3, .H1{
+    margin-top: 0px;
+}
+.H2{
+    margin-bottom: 5px;
+}
+.H1{
+    width: 295px;
+    margin-left: 0px;
+}
+
+.P2{
+    width: 350px;
+    border-radius: 5px;
+}
+
